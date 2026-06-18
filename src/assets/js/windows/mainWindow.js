@@ -10,7 +10,7 @@ const pkg = require("../../../../package.json");
 
 // ========== Discord RPC ==========
 const RPC = require("discord-rpc");
-const clientId = "1435373934194458666"; // Tu ID de Discord App
+const clientId = "1516966534684086442"; // Tu ID de Discord App
 const rpc = new RPC.Client({ transport: "ipc" });
 let startTimestamp = new Date();
 
@@ -19,7 +19,7 @@ function setActivity(details, state) {
     details: details,
     state: state,
     largeImageKey: "launcher_tunki_logo", // tu imagen en Discord Dev Portal
-    largeImageText: "Tunki Launcher",
+    largeImageText: "PermaCore Launcher",
     startTimestamp,
     instance: false
   });

@@ -1,7 +1,7 @@
 {
-    "name": "Perma-Launcher",
-    "preductname": "Perma Launcher",
-    "version": "1.0.0",
+    "name": "PermaCore-Launcher",
+    "preductname": "PermaCore Launcher",
+    "version": "1.0.1",
     "description": "Launcher oficial de Perma Death",
     "main": "src/app.js",
     "author": {

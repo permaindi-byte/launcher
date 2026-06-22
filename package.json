@@ -1,8 +1,8 @@
 {
-    "name": "PermaCore-Launcher",
-    "preductname": "PermaCore Launcher",
-    "version": "1.0.2",
-    "description": "Launcher oficial de Perma Death",
+    "name": "Under-Launcher",
+    "preductname": "Under Launcher",
+    "version": "1.0.3",
+    "description": "Launcher oficial de Under Studio",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, SebasoOwO, Inc.",
